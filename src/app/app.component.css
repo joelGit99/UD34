@@ -1,0 +1,35 @@
+body {
+  background-color: darkcyan;
+}
+.divBlancos {
+  background-color: white;
+}
+.contenedor2 {
+  align-items: center;
+  justify-content: center;
+  margin: 20%;
+  padding: 0%;
+}
+.divsCentrados {
+  margin-left: 0% !important;
+  margin-right: 0% !important;
+  width: 104%;
+}
+button {
+  border-radius: 0% !important;
+}
+.buttonColumna {
+  margin-left: 50%;
+  width: 17.6%;
+}
+.numeros {
+  margin-top: 0%;
+}
+.divColumna {
+  margin: auto;
+}
+.divCentrados2 {
+  width: 69.2%;
+  margin-left: 0% !important;
+  margin-right: 69.2% !important;
+}
